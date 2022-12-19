@@ -5,11 +5,13 @@ id = 420c590d-4d25-4ae6-9d69-42d74919a498
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"539613-ba02ed8a-f424-4026-853b-97651574dd16","path":"ADP Integration Tests.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
